@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [16/Jan/2018:20:35:29 +0800] "GET /stuInformationManage HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [16/Jan/2018:20:35:29 +0800] "GET /stuInformationManage/ HTTP/1.1" 304 - http-bio-8080-exec-3 172
+0:0:0:0:0:0:0:1 - - [16/Jan/2018:20:35:30 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [16/Jan/2018:20:36:07 +0800] "GET /stuInformationManage/Login.html HTTP/1.1" 404 1013 http-bio-8080-exec-5 33
+0:0:0:0:0:0:0:1 - - [16/Jan/2018:20:36:15 +0800] "GET /stuInformationManage/login.html HTTP/1.1" 200 3365 http-bio-8080-exec-5 68
+0:0:0:0:0:0:0:1 - - [16/Jan/2018:20:36:15 +0800] "GET /stuInformationManage/css/base.css HTTP/1.1" 304 - http-bio-8080-exec-5 37
+0:0:0:0:0:0:0:1 - - [16/Jan/2018:20:36:15 +0800] "GET /stuInformationManage/images/login/login.jpg HTTP/1.1" 304 - http-bio-8080-exec-5 89
+0:0:0:0:0:0:0:1 - - [16/Jan/2018:20:36:15 +0800] "GET /stuInformationManage/css/font/fontello.woff2?68391806 HTTP/1.1" 304 - http-bio-8080-exec-6 164
+0:0:0:0:0:0:0:1 - - [16/Jan/2018:20:36:59 +0800] "GET /stuInformationManage/login.html HTTP/1.1" 304 - http-bio-8080-exec-1 12
+0:0:0:0:0:0:0:1 - - [16/Jan/2018:20:42:33 +0800] "GET /stuInformationManage HTTP/1.1" 302 - http-bio-8080-exec-7 0
